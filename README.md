@@ -1,4 +1,4 @@
-Meu Primeiro Projeto com Java + MySQL
+💻 Meu Primeiro Projeto com Java + MySQL
 
 Este é o meu primeiro projeto de aplicação em console, feito em Java com integração ao MySQL.
 O objetivo foi praticar conceitos de programação orientada a objetos (POO), persistência de dados com JDBC e organização em camadas DAO.
